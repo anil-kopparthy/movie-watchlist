@@ -12,3 +12,5 @@ This is a fun little movie application where you can search for a movie and add 
 2. Context API for global state and localStorage for persistance
 3. TMDB movie database API with axios to query our movie search
 4. Netlify for automatic deployments
+
+You can find it live [here](https://movie-search-ak.netlify.app/)
